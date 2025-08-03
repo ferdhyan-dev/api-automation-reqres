@@ -1,0 +1,17 @@
+{
+  "name": "reqres-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha tests/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.11.0",
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
